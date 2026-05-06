@@ -1,0 +1,17 @@
+{
+  "name": "memory-assist-app",
+  "version": "1.0.0",
+  "description": "A simple memory assistance app for early-stage Alzheimer's support",
+  "type": "module",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
